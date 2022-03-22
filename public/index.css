@@ -1,0 +1,10 @@
+.search-utils {
+    display:flex;
+    justify-content:center;
+}
+.search-utils span{
+    margin: 10px;
+}
+
+
+
